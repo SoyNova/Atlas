@@ -6,7 +6,7 @@
 ## 📦 **Descargas**  
 | Plataforma | Archivo | Checksum (SHA-256) |  
 |------------|---------|--------------------|  
-| Windows    | [AtlasAutoclicker_v1.0.exe](https://ejemplo.com/descarga) | `a1b2c3d4...` |  
+| Windows    | [AtlasAutoclicker_v1.0.exe]([https://ejemplo.com/descarga](https://discord.gg/PQnzBxr8PD)) | `a1b2c3d4...` |  
 
 ---
 
